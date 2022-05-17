@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Welcome to my page Philippe Adrian G. Tacluyan</p>
+    <p>Tacluyan, Reyes, Hapitan, Omero</p>
 </body>
 </html>
